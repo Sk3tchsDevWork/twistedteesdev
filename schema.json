@@ -1,0 +1,1260 @@
+{
+  "name": "Custom Section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "bg_white_font_sans",
+      "label": "Bg White font Sans",
+      "default": "bg-white font-sans"
+    },
+    {
+      "type": "text",
+      "id": "announcement_bar_text_white_py_3_text_center",
+      "label": "Announcement Bar text White py 3 text Center",
+      "default": "announcement-bar text-white py-3 text-center"
+    },
+    {
+      "type": "text",
+      "id": "container_mx_auto_px_4",
+      "label": "Container mx Auto px 4",
+      "default": "container mx-auto px-4"
+    },
+    {
+      "type": "text",
+      "id": "font_semibold",
+      "label": "Font Semibold",
+      "default": "font-semibold"
+    },
+    {
+      "type": "text",
+      "id": "squarespace_nav_sticky_top_0_z_50_border_b",
+      "label": "Squarespace Nav sticky top 0 z 50 border B",
+      "default": "squarespace-nav sticky top-0 z-50 border-b"
+    },
+    {
+      "type": "text",
+      "id": "container_mx_auto_px_4_py_4",
+      "label": "Container mx Auto px 4 py 4",
+      "default": "container mx-auto px-4 py-4"
+    },
+    {
+      "type": "text",
+      "id": "flex_items_center_justify_between",
+      "label": "Flex items Center justify Between",
+      "default": "flex items-center justify-between"
+    },
+    {
+      "type": "text",
+      "id": "flex_items_center_space_x_3",
+      "label": "Flex items Center space X 3",
+      "default": "flex items-center space-x-3"
+    },
+    {
+      "type": "text",
+      "id": "w_10_h_10_bg_gradient_to_r_from_brand_pink_to_brand_purple_rounded_full_flex_items_center_justify_center",
+      "label": "W 10 h 10 bg Gradient To R from Brand Pink to Brand Purple rounded Full flex items Center justify Center",
+      "default": "w-10 h-10 bg-gradient-to-r from-brand-pink to-brand-purple rounded-full flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "text_white_font_bold",
+      "label": "Text White font Bold",
+      "default": "text-white font-bold"
+    },
+    {
+      "type": "text",
+      "id": "text_2xl_font_bold_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent",
+      "label": "Text 2xl font Bold bg Gradient To R from Brand Pink to Brand Purple bg Clip Text text Transparent",
+      "default": "text-2xl font-bold bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent"
+    },
+    {
+      "type": "text",
+      "id": "hidden_md_flex_space_x_8",
+      "label": "Hidden md:flex space X 8",
+      "default": "hidden md:flex space-x-8"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_700_hover_text_brand_pink_font_medium_transition_colors",
+      "label": "Text Gray 700 hover:text Brand Pink font Medium transition Colors",
+      "default": "text-gray-700 hover:text-brand-pink font-medium transition-colors"
+    },
+    {
+      "type": "text",
+      "id": "flex_items_center_space_x_4",
+      "label": "Flex items Center space X 4",
+      "default": "flex items-center space-x-4"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_700_hover_text_brand_pink_transition_colors",
+      "label": "Text Gray 700 hover:text Brand Pink transition Colors",
+      "default": "text-gray-700 hover:text-brand-pink transition-colors"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_search_text_xl",
+      "label": "Fas fa Search text Xl",
+      "default": "fas fa-search text-xl"
+    },
+    {
+      "type": "text",
+      "id": "relative_text_gray_700_hover_text_brand_pink_transition_colors",
+      "label": "Relative text Gray 700 hover:text Brand Pink transition Colors",
+      "default": "relative text-gray-700 hover:text-brand-pink transition-colors"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_shopping_bag_text_xl",
+      "label": "Fas fa Shopping Bag text Xl",
+      "default": "fas fa-shopping-bag text-xl"
+    },
+    {
+      "type": "text",
+      "id": "absolute__top_2__right_2_bg_brand_pink_text_white_text_xs_rounded_full_w_5_h_5_flex_items_center_justify_center",
+      "label": "Absolute  Top 2  Right 2 bg Brand Pink text White text Xs rounded Full w 5 h 5 flex items Center justify Center",
+      "default": "absolute -top-2 -right-2 bg-brand-pink text-white text-xs rounded-full w-5 h-5 flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "gradient_bg_text_white_section_padding_text_center",
+      "label": "Gradient Bg text White section Padding text Center",
+      "default": "gradient-bg text-white section-padding text-center"
+    },
+    {
+      "type": "text",
+      "id": "text_5xl_md_text_6xl_font_bold_mb_6_leading_tight",
+      "label": "Text 5xl md:text 6xl font Bold mb 6 leading Tight",
+      "default": "text-5xl md:text-6xl font-bold mb-6 leading-tight"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_mb_8_max_w_2xl_mx_auto_opacity_90",
+      "label": "Text Xl mb 8 max W 2xl mx Auto opacity 90",
+      "default": "text-xl mb-8 max-w-2xl mx-auto opacity-90"
+    },
+    {
+      "type": "text",
+      "id": "space_x_4",
+      "label": "Space X 4",
+      "default": "space-x-4"
+    },
+    {
+      "type": "text",
+      "id": "bg_white_text_brand_pink_px_8_py_4_rounded_full_font_semibold_hover_shadow_xl_transition_all_inline_block",
+      "label": "Bg White text Brand Pink px 8 py 4 rounded Full font Semibold hover:shadow Xl transition All inline Block",
+      "default": "bg-white text-brand-pink px-8 py-4 rounded-full font-semibold hover:shadow-xl transition-all inline-block"
+    },
+    {
+      "type": "text",
+      "id": "border_2_border_white_text_white_px_8_py_4_rounded_full_font_semibold_hover_bg_white_hover_text_brand_pink_transition_all_inline_block",
+      "label": "Border 2 border White text White px 8 py 4 rounded Full font Semibold hover:bg White hover:text Brand Pink transition All inline Block",
+      "default": "border-2 border-white text-white px-8 py-4 rounded-full font-semibold hover:bg-white hover:text-brand-pink transition-all inline-block"
+    },
+    {
+      "type": "text",
+      "id": "section_padding_bg_gray_50",
+      "label": "Section Padding bg Gray 50",
+      "default": "section-padding bg-gray-50"
+    },
+    {
+      "type": "text",
+      "id": "text_4xl_font_bold_text_center_mb_16_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent",
+      "label": "Text 4xl font Bold text Center mb 16 bg Gradient To R from Brand Pink to Brand Purple bg Clip Text text Transparent",
+      "default": "text-4xl font-bold text-center mb-16 bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent"
+    },
+    {
+      "type": "text",
+      "id": "grid_md_grid_cols_3_gap_8",
+      "label": "Grid md:grid Cols 3 gap 8",
+      "default": "grid md:grid-cols-3 gap-8"
+    },
+    {
+      "type": "text",
+      "id": "product_hover_bg_white_rounded_2xl_overflow_hidden_shadow_lg",
+      "label": "Product Hover bg White rounded 2xl overflow Hidden shadow Lg",
+      "default": "product-hover bg-white rounded-2xl overflow-hidden shadow-lg"
+    },
+    {
+      "type": "text",
+      "id": "h_64_bg_gradient_to_br_from_brand_pink_to_brand_purple_flex_items_center_justify_center",
+      "label": "H 64 bg Gradient To Br from Brand Pink to Brand Purple flex items Center justify Center",
+      "default": "h-64 bg-gradient-to-br from-brand-pink to-brand-purple flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_tshirt_text_6xl_text_white",
+      "label": "Fas fa Tshirt text 6xl text White",
+      "default": "fas fa-tshirt text-6xl text-white"
+    },
+    {
+      "type": "text",
+      "id": "p_6_text_center",
+      "label": "P 6 text Center",
+      "default": "p-6 text-center"
+    },
+    {
+      "type": "text",
+      "id": "text_2xl_font_bold_mb_2",
+      "label": "Text 2xl font Bold mb 2",
+      "default": "text-2xl font-bold mb-2"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_600_mb_4",
+      "label": "Text Gray 600 mb 4",
+      "default": "text-gray-600 mb-4"
+    },
+    {
+      "type": "text",
+      "id": "bg_brand_pink_text_white_px_6_py_2_rounded_full_hover_bg_opacity_90_transition_all",
+      "label": "Bg Brand Pink text White px 6 py 2 rounded Full hover:bg Opacity 90 transition All",
+      "default": "bg-brand-pink text-white px-6 py-2 rounded-full hover:bg-opacity-90 transition-all"
+    },
+    {
+      "type": "text",
+      "id": "h_64_bg_gradient_to_br_from_brand_purple_to_brand_blue_flex_items_center_justify_center",
+      "label": "H 64 bg Gradient To Br from Brand Purple to Brand Blue flex items Center justify Center",
+      "default": "h-64 bg-gradient-to-br from-brand-purple to-brand-blue flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_hoodie_text_6xl_text_white",
+      "label": "Fas fa Hoodie text 6xl text White",
+      "default": "fas fa-hoodie text-6xl text-white"
+    },
+    {
+      "type": "text",
+      "id": "bg_brand_purple_text_white_px_6_py_2_rounded_full_hover_bg_opacity_90_transition_all",
+      "label": "Bg Brand Purple text White px 6 py 2 rounded Full hover:bg Opacity 90 transition All",
+      "default": "bg-brand-purple text-white px-6 py-2 rounded-full hover:bg-opacity-90 transition-all"
+    },
+    {
+      "type": "text",
+      "id": "h_64_bg_gradient_to_br_from_brand_blue_to_brand_orange_flex_items_center_justify_center",
+      "label": "H 64 bg Gradient To Br from Brand Blue to Brand Orange flex items Center justify Center",
+      "default": "h-64 bg-gradient-to-br from-brand-blue to-brand-orange flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_gem_text_6xl_text_white",
+      "label": "Fas fa Gem text 6xl text White",
+      "default": "fas fa-gem text-6xl text-white"
+    },
+    {
+      "type": "text",
+      "id": "bg_brand_blue_text_white_px_6_py_2_rounded_full_hover_bg_opacity_90_transition_all",
+      "label": "Bg Brand Blue text White px 6 py 2 rounded Full hover:bg Opacity 90 transition All",
+      "default": "bg-brand-blue text-white px-6 py-2 rounded-full hover:bg-opacity-90 transition-all"
+    },
+    {
+      "type": "text",
+      "id": "section_scroll_section_padding",
+      "label": "Section Scroll section Padding",
+      "default": "section-scroll section-padding"
+    },
+    {
+      "type": "text",
+      "id": "text_center_mb_16",
+      "label": "Text Center mb 16",
+      "default": "text-center mb-16"
+    },
+    {
+      "type": "text",
+      "id": "text_4xl_font_bold_mb_4_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent",
+      "label": "Text 4xl font Bold mb 4 bg Gradient To R from Brand Pink to Brand Purple bg Clip Text text Transparent",
+      "default": "text-4xl font-bold mb-4 bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_text_gray_600",
+      "label": "Text Xl text Gray 600",
+      "default": "text-xl text-gray-600"
+    },
+    {
+      "type": "text",
+      "id": "grid_md_grid_cols_2_lg_grid_cols_3_gap_8",
+      "label": "Grid md:grid Cols 2 lg:grid Cols 3 gap 8",
+      "default": "grid md:grid-cols-2 lg:grid-cols-3 gap-8"
+    },
+    {
+      "type": "text",
+      "id": "product_hover_bg_white_rounded_xl_shadow_lg_overflow_hidden",
+      "label": "Product Hover bg White rounded Xl shadow Lg overflow Hidden",
+      "default": "product-hover bg-white rounded-xl shadow-lg overflow-hidden"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_orange_to_brand_pink_flex_items_center_justify_center",
+      "label": "H 80 bg Gradient To Br from Brand Orange to Brand Pink flex items Center justify Center",
+      "default": "h-80 bg-gradient-to-br from-brand-orange to-brand-pink flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "text_white_text_2xl_font_bold",
+      "label": "Text White text 2xl font Bold",
+      "default": "text-white text-2xl font-bold"
+    },
+    {
+      "type": "text",
+      "id": "p_6",
+      "label": "P 6",
+      "default": "p-6"
+    },
+    {
+      "type": "text",
+      "id": "bg_brand_orange_text_white_px_2_py_1_rounded_full_text_xs_font_bold",
+      "label": "Bg Brand Orange text White px 2 py 1 rounded Full text Xs font Bold",
+      "default": "bg-brand-orange text-white px-2 py-1 rounded-full text-xs font-bold"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_font_bold_mb_2_mt_2",
+      "label": "Text Lg font Bold mb 2 mt 2",
+      "default": "text-lg font-bold mb-2 mt-2"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_600_text_sm_mb_3",
+      "label": "Text Gray 600 text Sm mb 3",
+      "default": "text-gray-600 text-sm mb-3"
+    },
+    {
+      "type": "text",
+      "id": "text_2xl_font_bold_text_brand_pink",
+      "label": "Text 2xl font Bold text Brand Pink",
+      "default": "text-2xl font-bold text-brand-pink"
+    },
+    {
+      "type": "text",
+      "id": "bg_gray_900_text_white_px_4_py_2_rounded_lg_hover_bg_gray_800_transition_all",
+      "label": "Bg Gray 900 text White px 4 py 2 rounded Lg hover:bg Gray 800 transition All",
+      "default": "bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-all"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_blue_to_brand_purple_flex_items_center_justify_center",
+      "label": "H 80 bg Gradient To Br from Brand Blue to Brand Purple flex items Center justify Center",
+      "default": "h-80 bg-gradient-to-br from-brand-blue to-brand-purple flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_pink_to_brand_orange_flex_items_center_justify_center",
+      "label": "H 80 bg Gradient To Br from Brand Pink to Brand Orange flex items Center justify Center",
+      "default": "h-80 bg-gradient-to-br from-brand-pink to-brand-orange flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "section_scroll_section_padding_bg_gray_50",
+      "label": "Section Scroll section Padding bg Gray 50",
+      "default": "section-scroll section-padding bg-gray-50"
+    },
+    {
+      "type": "text",
+      "id": "grid_md_grid_cols_2_lg_grid_cols_4_gap_8",
+      "label": "Grid md:grid Cols 2 lg:grid Cols 4 gap 8",
+      "default": "grid md:grid-cols-2 lg:grid-cols-4 gap-8"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_purple_to_brand_blue_flex_items_center_justify_center_relative",
+      "label": "H 80 bg Gradient To Br from Brand Purple to Brand Blue flex items Center justify Center relative",
+      "default": "h-80 bg-gradient-to-br from-brand-purple to-brand-blue flex items-center justify-center relative"
+    },
+    {
+      "type": "text",
+      "id": "absolute_top_4_right_4_bg_red_500_text_white_px_2_py_1_rounded_full_text_sm_font_bold",
+      "label": "Absolute top 4 right 4 bg Red 500 text White px 2 py 1 rounded Full text Sm font Bold",
+      "default": "absolute top-4 right-4 bg-red-500 text-white px-2 py-1 rounded-full text-sm font-bold"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_font_bold_mb_2",
+      "label": "Text Lg font Bold mb 2",
+      "default": "text-lg font-bold mb-2"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_text_gray_500_line_through",
+      "label": "Text Lg text Gray 500 line Through",
+      "default": "text-lg text-gray-500 line-through"
+    },
+    {
+      "type": "text",
+      "id": "text_2xl_font_bold_text_brand_pink_ml_2",
+      "label": "Text 2xl font Bold text Brand Pink ml 2",
+      "default": "text-2xl font-bold text-brand-pink ml-2"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_pink_to_brand_orange_flex_items_center_justify_center_relative",
+      "label": "H 80 bg Gradient To Br from Brand Pink to Brand Orange flex items Center justify Center relative",
+      "default": "h-80 bg-gradient-to-br from-brand-pink to-brand-orange flex items-center justify-center relative"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_blue_to_brand_purple_flex_items_center_justify_center_relative",
+      "label": "H 80 bg Gradient To Br from Brand Blue to Brand Purple flex items Center justify Center relative",
+      "default": "h-80 bg-gradient-to-br from-brand-blue to-brand-purple flex items-center justify-center relative"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_orange_to_brand_pink_flex_items_center_justify_center_relative",
+      "label": "H 80 bg Gradient To Br from Brand Orange to Brand Pink flex items Center justify Center relative",
+      "default": "h-80 bg-gradient-to-br from-brand-orange to-brand-pink flex items-center justify-center relative"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_pink_to_brand_purple_flex_items_center_justify_center",
+      "label": "H 80 bg Gradient To Br from Brand Pink to Brand Purple flex items Center justify Center",
+      "default": "h-80 bg-gradient-to-br from-brand-pink to-brand-purple flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_purple_to_brand_blue_flex_items_center_justify_center",
+      "label": "H 80 bg Gradient To Br from Brand Purple to Brand Blue flex items Center justify Center",
+      "default": "h-80 bg-gradient-to-br from-brand-purple to-brand-blue flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "h_80_bg_gradient_to_br_from_brand_blue_to_brand_orange_flex_items_center_justify_center",
+      "label": "H 80 bg Gradient To Br from Brand Blue to Brand Orange flex items Center justify Center",
+      "default": "h-80 bg-gradient-to-br from-brand-blue to-brand-orange flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "text_center_mt_12",
+      "label": "Text Center mt 12",
+      "default": "text-center mt-12"
+    },
+    {
+      "type": "text",
+      "id": "bg_gradient_to_r_from_brand_pink_to_brand_purple_text_white_px_8_py_4_rounded_full_font_semibold_hover_shadow_xl_transition_all",
+      "label": "Bg Gradient To R from Brand Pink to Brand Purple text White px 8 py 4 rounded Full font Semibold hover:shadow Xl transition All",
+      "default": "bg-gradient-to-r from-brand-pink to-brand-purple text-white px-8 py-4 rounded-full font-semibold hover:shadow-xl transition-all"
+    },
+    {
+      "type": "text",
+      "id": "max_w_4xl_mx_auto_text_center",
+      "label": "Max W 4xl mx Auto text Center",
+      "default": "max-w-4xl mx-auto text-center"
+    },
+    {
+      "type": "text",
+      "id": "text_4xl_font_bold_mb_8_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent",
+      "label": "Text 4xl font Bold mb 8 bg Gradient To R from Brand Pink to Brand Purple bg Clip Text text Transparent",
+      "default": "text-4xl font-bold mb-8 bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent"
+    },
+    {
+      "type": "text",
+      "id": "grid_md_grid_cols_2_gap_12_items_center",
+      "label": "Grid md:grid Cols 2 gap 12 items Center",
+      "default": "grid md:grid-cols-2 gap-12 items-center"
+    },
+    {
+      "type": "text",
+      "id": "text_left",
+      "label": "Text Left",
+      "default": "text-left"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_text_gray_700_mb_6_leading_relaxed",
+      "label": "Text Lg text Gray 700 mb 6 leading Relaxed",
+      "default": "text-lg text-gray-700 mb-6 leading-relaxed"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_text_gray_700_leading_relaxed",
+      "label": "Text Lg text Gray 700 leading Relaxed",
+      "default": "text-lg text-gray-700 leading-relaxed"
+    },
+    {
+      "type": "text",
+      "id": "mt_8_flex_space_x_6",
+      "label": "Mt 8 flex space X 6",
+      "default": "mt-8 flex space-x-6"
+    },
+    {
+      "type": "text",
+      "id": "text_center",
+      "label": "Text Center",
+      "default": "text-center"
+    },
+    {
+      "type": "text",
+      "id": "text_3xl_font_bold_text_brand_pink",
+      "label": "Text 3xl font Bold text Brand Pink",
+      "default": "text-3xl font-bold text-brand-pink"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_600",
+      "label": "Text Gray 600",
+      "default": "text-gray-600"
+    },
+    {
+      "type": "text",
+      "id": "text_3xl_font_bold_text_brand_purple",
+      "label": "Text 3xl font Bold text Brand Purple",
+      "default": "text-3xl font-bold text-brand-purple"
+    },
+    {
+      "type": "text",
+      "id": "text_3xl_font_bold_text_brand_blue",
+      "label": "Text 3xl font Bold text Brand Blue",
+      "default": "text-3xl font-bold text-brand-blue"
+    },
+    {
+      "type": "text",
+      "id": "h_96_bg_gradient_to_br_from_brand_pink_via_brand_purple_to_brand_blue_rounded_2xl_flex_items_center_justify_center",
+      "label": "H 96 bg Gradient To Br from Brand Pink via Brand Purple to Brand Blue rounded 2xl flex items Center justify Center",
+      "default": "h-96 bg-gradient-to-br from-brand-pink via-brand-purple to-brand-blue rounded-2xl flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "text_center_text_white",
+      "label": "Text Center text White",
+      "default": "text-center text-white"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_heart_text_6xl_mb_4",
+      "label": "Fas fa Heart text 6xl mb 4",
+      "default": "fas fa-heart text-6xl mb-4"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_semibold",
+      "label": "Text Xl font Semibold",
+      "default": "text-xl font-semibold"
+    },
+    {
+      "type": "text",
+      "id": "max_w_4xl_mx_auto",
+      "label": "Max W 4xl mx Auto",
+      "default": "max-w-4xl mx-auto"
+    },
+    {
+      "type": "text",
+      "id": "grid_md_grid_cols_2_gap_12",
+      "label": "Grid md:grid Cols 2 gap 12",
+      "default": "grid md:grid-cols-2 gap-12"
+    },
+    {
+      "type": "text",
+      "id": "text_2xl_font_bold_mb_6",
+      "label": "Text 2xl font Bold mb 6",
+      "default": "text-2xl font-bold mb-6"
+    },
+    {
+      "type": "text",
+      "id": "space_y_6",
+      "label": "Space Y 6",
+      "default": "space-y-6"
+    },
+    {
+      "type": "text",
+      "id": "w_12_h_12_bg_brand_pink_rounded_full_flex_items_center_justify_center",
+      "label": "W 12 h 12 bg Brand Pink rounded Full flex items Center justify Center",
+      "default": "w-12 h-12 bg-brand-pink rounded-full flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_envelope_text_white",
+      "label": "Fas fa Envelope text White",
+      "default": "fas fa-envelope text-white"
+    },
+    {
+      "type": "text",
+      "id": "w_12_h_12_bg_brand_purple_rounded_full_flex_items_center_justify_center",
+      "label": "W 12 h 12 bg Brand Purple rounded Full flex items Center justify Center",
+      "default": "w-12 h-12 bg-brand-purple rounded-full flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_phone_text_white",
+      "label": "Fas fa Phone text White",
+      "default": "fas fa-phone text-white"
+    },
+    {
+      "type": "text",
+      "id": "w_12_h_12_bg_brand_blue_rounded_full_flex_items_center_justify_center",
+      "label": "W 12 h 12 bg Brand Blue rounded Full flex items Center justify Center",
+      "default": "w-12 h-12 bg-brand-blue rounded-full flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_clock_text_white",
+      "label": "Fas fa Clock text White",
+      "default": "fas fa-clock text-white"
+    },
+    {
+      "type": "text",
+      "id": "mt_8",
+      "label": "Mt 8",
+      "default": "mt-8"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_font_semibold_mb_4",
+      "label": "Text Lg font Semibold mb 4",
+      "default": "text-lg font-semibold mb-4"
+    },
+    {
+      "type": "text",
+      "id": "flex_space_x_4",
+      "label": "Flex space X 4",
+      "default": "flex space-x-4"
+    },
+    {
+      "type": "text",
+      "id": "w_12_h_12_bg_gradient_to_r_from_brand_pink_to_brand_purple_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all",
+      "label": "W 12 h 12 bg Gradient To R from Brand Pink to Brand Purple rounded Full flex items Center justify Center text White hover:shadow Lg transition All",
+      "default": "w-12 h-12 bg-gradient-to-r from-brand-pink to-brand-purple rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all"
+    },
+    {
+      "type": "text",
+      "id": "fab_fa_instagram",
+      "label": "Fab fa Instagram",
+      "default": "fab fa-instagram"
+    },
+    {
+      "type": "text",
+      "id": "w_12_h_12_bg_gradient_to_r_from_brand_purple_to_brand_blue_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all",
+      "label": "W 12 h 12 bg Gradient To R from Brand Purple to Brand Blue rounded Full flex items Center justify Center text White hover:shadow Lg transition All",
+      "default": "w-12 h-12 bg-gradient-to-r from-brand-purple to-brand-blue rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all"
+    },
+    {
+      "type": "text",
+      "id": "fab_fa_facebook",
+      "label": "Fab fa Facebook",
+      "default": "fab fa-facebook"
+    },
+    {
+      "type": "text",
+      "id": "w_12_h_12_bg_gradient_to_r_from_brand_blue_to_brand_orange_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all",
+      "label": "W 12 h 12 bg Gradient To R from Brand Blue to Brand Orange rounded Full flex items Center justify Center text White hover:shadow Lg transition All",
+      "default": "w-12 h-12 bg-gradient-to-r from-brand-blue to-brand-orange rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all"
+    },
+    {
+      "type": "text",
+      "id": "fab_fa_twitter",
+      "label": "Fab fa Twitter",
+      "default": "fab fa-twitter"
+    },
+    {
+      "type": "text",
+      "id": "w_12_h_12_bg_gradient_to_r_from_brand_orange_to_brand_pink_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all",
+      "label": "W 12 h 12 bg Gradient To R from Brand Orange to Brand Pink rounded Full flex items Center justify Center text White hover:shadow Lg transition All",
+      "default": "w-12 h-12 bg-gradient-to-r from-brand-orange to-brand-pink rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all"
+    },
+    {
+      "type": "text",
+      "id": "fab_fa_tiktok",
+      "label": "Fab fa Tiktok",
+      "default": "fab fa-tiktok"
+    },
+    {
+      "type": "text",
+      "id": "bg_white_p_8_rounded_2xl_shadow_lg",
+      "label": "Bg White p 8 rounded 2xl shadow Lg",
+      "default": "bg-white p-8 rounded-2xl shadow-lg"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold_mb_6",
+      "label": "Text Xl font Bold mb 6",
+      "default": "text-xl font-bold mb-6"
+    },
+    {
+      "type": "text",
+      "id": "space_y_4",
+      "label": "Space Y 4",
+      "default": "space-y-4"
+    },
+    {
+      "type": "text",
+      "id": "w_full_px_4_py_3_border_border_gray_300_rounded_lg_focus_outline_none_focus_ring_2_focus_ring_brand_pink_focus_border_transparent",
+      "label": "W Full px 4 py 3 border border Gray 300 rounded Lg focus:outline None focus:ring 2 focus:ring Brand Pink focus:border Transparent",
+      "default": "w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-pink focus:border-transparent"
+    },
+    {
+      "type": "text",
+      "id": "w_full_bg_gradient_to_r_from_brand_pink_to_brand_purple_text_white_py_3_rounded_lg_font_semibold_hover_shadow_lg_transition_all",
+      "label": "W Full bg Gradient To R from Brand Pink to Brand Purple text White py 3 rounded Lg font Semibold hover:shadow Lg transition All",
+      "default": "w-full bg-gradient-to-r from-brand-pink to-brand-purple text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all"
+    },
+    {
+      "type": "text",
+      "id": "bg_gray_900_text_white_py_12",
+      "label": "Bg Gray 900 text White py 12",
+      "default": "bg-gray-900 text-white py-12"
+    },
+    {
+      "type": "text",
+      "id": "grid_md_grid_cols_4_gap_8",
+      "label": "Grid md:grid Cols 4 gap 8",
+      "default": "grid md:grid-cols-4 gap-8"
+    },
+    {
+      "type": "text",
+      "id": "flex_items_center_space_x_3_mb_4",
+      "label": "Flex items Center space X 3 mb 4",
+      "default": "flex items-center space-x-3 mb-4"
+    },
+    {
+      "type": "text",
+      "id": "w_8_h_8_bg_gradient_to_r_from_brand_pink_to_brand_purple_rounded_full_flex_items_center_justify_center",
+      "label": "W 8 h 8 bg Gradient To R from Brand Pink to Brand Purple rounded Full flex items Center justify Center",
+      "default": "w-8 h-8 bg-gradient-to-r from-brand-pink to-brand-purple rounded-full flex items-center justify-center"
+    },
+    {
+      "type": "text",
+      "id": "text_white_font_bold_text_sm",
+      "label": "Text White font Bold text Sm",
+      "default": "text-white font-bold text-sm"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold",
+      "label": "Text Xl font Bold",
+      "default": "text-xl font-bold"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_400",
+      "label": "Text Gray 400",
+      "default": "text-gray-400"
+    },
+    {
+      "type": "text",
+      "id": "font_semibold_mb_4",
+      "label": "Font Semibold mb 4",
+      "default": "font-semibold mb-4"
+    },
+    {
+      "type": "text",
+      "id": "space_y_2_text_gray_400",
+      "label": "Space Y 2 text Gray 400",
+      "default": "space-y-2 text-gray-400"
+    },
+    {
+      "type": "text",
+      "id": "hover_text_white_transition_colors",
+      "label": "Hover:text White transition Colors",
+      "default": "hover:text-white transition-colors"
+    },
+    {
+      "type": "text",
+      "id": "hover_text_white_transition_colors_cursor_pointer",
+      "label": "Hover:text White transition Colors cursor Pointer",
+      "default": "hover:text-white transition-colors cursor-pointer"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_400_mb_4",
+      "label": "Text Gray 400 mb 4",
+      "default": "text-gray-400 mb-4"
+    },
+    {
+      "type": "text",
+      "id": "flex",
+      "label": "Flex",
+      "default": "flex"
+    },
+    {
+      "type": "text",
+      "id": "flex_1_px_3_py_2_bg_gray_800_text_white_rounded_l_lg_focus_outline_none",
+      "label": "Flex 1 px 3 py 2 bg Gray 800 text White rounded L Lg focus:outline None",
+      "default": "flex-1 px-3 py-2 bg-gray-800 text-white rounded-l-lg focus:outline-none"
+    },
+    {
+      "type": "text",
+      "id": "bg_brand_pink_px_4_py_2_rounded_r_lg_hover_bg_opacity_90_transition_all",
+      "label": "Bg Brand Pink px 4 py 2 rounded R Lg hover:bg Opacity 90 transition All",
+      "default": "bg-brand-pink px-4 py-2 rounded-r-lg hover:bg-opacity-90 transition-all"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_arrow_right",
+      "label": "Fas fa Arrow Right",
+      "default": "fas fa-arrow-right"
+    },
+    {
+      "type": "text",
+      "id": "border_t_border_gray_800_mt_8_pt_8_text_center_text_gray_400",
+      "label": "Border T border Gray 800 mt 8 pt 8 text Center text Gray 400",
+      "default": "border-t border-gray-800 mt-8 pt-8 text-center text-gray-400"
+    },
+    {
+      "type": "text",
+      "id": "modal",
+      "label": "Modal",
+      "default": "modal"
+    },
+    {
+      "type": "text",
+      "id": "modal_content",
+      "label": "Modal Content",
+      "default": "modal-content"
+    },
+    {
+      "type": "text",
+      "id": "gradient_bg_text_white_p_6_rounded_t_2xl",
+      "label": "Gradient Bg text White p 6 rounded T 2xl",
+      "default": "gradient-bg text-white p-6 rounded-t-2xl"
+    },
+    {
+      "type": "text",
+      "id": "flex_justify_between_items_center",
+      "label": "Flex justify Between items Center",
+      "default": "flex justify-between items-center"
+    },
+    {
+      "type": "text",
+      "id": "text_2xl_font_bold",
+      "label": "Text 2xl font Bold",
+      "default": "text-2xl font-bold"
+    },
+    {
+      "type": "text",
+      "id": "text_white_hover_text_gray_300",
+      "label": "Text White hover:text Gray 300",
+      "default": "text-white hover:text-gray-300"
+    },
+    {
+      "type": "text",
+      "id": "fas_fa_times_text_xl",
+      "label": "Fas fa Times text Xl",
+      "default": "fas fa-times text-xl"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold_mb_3_text_brand_pink",
+      "label": "Text Xl font Bold mb 3 text Brand Pink",
+      "default": "text-xl font-bold mb-3 text-brand-pink"
+    },
+    {
+      "type": "text",
+      "id": "text_gray_700",
+      "label": "Text Gray 700",
+      "default": "text-gray-700"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold_mb_3_text_brand_purple",
+      "label": "Text Xl font Bold mb 3 text Brand Purple",
+      "default": "text-xl font-bold mb-3 text-brand-purple"
+    },
+    {
+      "type": "text",
+      "id": "space_y_2_text_gray_700",
+      "label": "Space Y 2 text Gray 700",
+      "default": "space-y-2 text-gray-700"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold_mb_3_text_brand_blue",
+      "label": "Text Xl font Bold mb 3 text Brand Blue",
+      "default": "text-xl font-bold mb-3 text-brand-blue"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold_mb_3_text_brand_orange",
+      "label": "Text Xl font Bold mb 3 text Brand Orange",
+      "default": "text-xl font-bold mb-3 text-brand-orange"
+    },
+    {
+      "type": "text",
+      "id": "list_decimal_list_inside_space_y_2_text_gray_700",
+      "label": "List Decimal list Inside space Y 2 text Gray 700",
+      "default": "list-decimal list-inside space-y-2 text-gray-700"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_font_bold_mb_2_text_brand_pink",
+      "label": "Text Lg font Bold mb 2 text Brand Pink",
+      "default": "text-lg font-bold mb-2 text-brand-pink"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_font_bold_mb_2_text_brand_purple",
+      "label": "Text Lg font Bold mb 2 text Brand Purple",
+      "default": "text-lg font-bold mb-2 text-brand-purple"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_font_bold_mb_2_text_brand_blue",
+      "label": "Text Lg font Bold mb 2 text Brand Blue",
+      "default": "text-lg font-bold mb-2 text-brand-blue"
+    },
+    {
+      "type": "text",
+      "id": "text_lg_font_bold_mb_2_text_brand_orange",
+      "label": "Text Lg font Bold mb 2 text Brand Orange",
+      "default": "text-lg font-bold mb-2 text-brand-orange"
+    },
+    {
+      "type": "text",
+      "id": "space_y_8",
+      "label": "Space Y 8",
+      "default": "space-y-8"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold_mb_4_text_brand_pink",
+      "label": "Text Xl font Bold mb 4 text Brand Pink",
+      "default": "text-xl font-bold mb-4 text-brand-pink"
+    },
+    {
+      "type": "text",
+      "id": "overflow_x_auto",
+      "label": "Overflow X Auto",
+      "default": "overflow-x-auto"
+    },
+    {
+      "type": "text",
+      "id": "w_full_border_collapse_border_border_gray_300",
+      "label": "W Full border Collapse border border Gray 300",
+      "default": "w-full border-collapse border border-gray-300"
+    },
+    {
+      "type": "text",
+      "id": "bg_gray_100",
+      "label": "Bg Gray 100",
+      "default": "bg-gray-100"
+    },
+    {
+      "type": "text",
+      "id": "border_border_gray_300_px_4_py_2",
+      "label": "Border border Gray 300 px 4 py 2",
+      "default": "border border-gray-300 px-4 py-2"
+    },
+    {
+      "type": "text",
+      "id": "text_xl_font_bold_mb_4_text_brand_purple",
+      "label": "Text Xl font Bold mb 4 text Brand Purple",
+      "default": "text-xl font-bold mb-4 text-brand-purple"
+    },
+    {
+      "type": "text",
+      "id": "bg_gray_50_p_4_rounded_lg",
+      "label": "Bg Gray 50 p 4 rounded Lg",
+      "default": "bg-gray-50 p-4 rounded-lg"
+    },
+    {
+      "type": "text",
+      "id": "font_bold_mb_2_text_brand_blue",
+      "label": "Font Bold mb 2 text Brand Blue",
+      "default": "font-bold mb-2 text-brand-blue"
+    },
+    {
+      "type": "text",
+      "id": "list_disc_list_inside_space_y_1_text_gray_700",
+      "label": "List Disc list Inside space Y 1 text Gray 700",
+      "default": "list-disc list-inside space-y-1 text-gray-700"
+    },
+    {
+      "type": "text",
+      "id": "home",
+      "label": "Home",
+      "default": "home"
+    },
+    {
+      "type": "text",
+      "id": "new_arrivals",
+      "label": "New Arrivals",
+      "default": "new-arrivals"
+    },
+    {
+      "type": "text",
+      "id": "sale",
+      "label": "Sale",
+      "default": "sale"
+    },
+    {
+      "type": "text",
+      "id": "shop",
+      "label": "Shop",
+      "default": "shop"
+    },
+    {
+      "type": "text",
+      "id": "about",
+      "label": "About",
+      "default": "about"
+    },
+    {
+      "type": "text",
+      "id": "contact",
+      "label": "Contact",
+      "default": "contact"
+    },
+    {
+      "type": "text",
+      "id": "shipping_modal",
+      "label": "Shipping Modal",
+      "default": "shipping-modal"
+    },
+    {
+      "type": "text",
+      "id": "returns_modal",
+      "label": "Returns Modal",
+      "default": "returns-modal"
+    },
+    {
+      "type": "text",
+      "id": "faq_modal",
+      "label": "Faq Modal",
+      "default": "faq-modal"
+    },
+    {
+      "type": "text",
+      "id": "size_guide_modal",
+      "label": "Size Guide Modal",
+      "default": "size-guide-modal"
+    },
+    {
+      "type": "text",
+      "id": "https___cdn_tailwindcss_com",
+      "label": "Https://cdn.tailwindcss.com",
+      "default": "https://cdn.tailwindcss.com"
+    },
+    {
+      "type": "text",
+      "id": "https___cdnjs_cloudflare_com_ajax_libs_font_awesome_6_0_0_css_all_min_css",
+      "label": "Https://cdnjs.cloudflare.com/ajax/libs/font Awesome/6.0.0/css/all.min.css",
+      "default": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    },
+    {
+      "type": "text",
+      "id": "_home",
+      "label": "#home",
+      "default": "#home"
+    },
+    {
+      "type": "text",
+      "id": "_shop",
+      "label": "#shop",
+      "default": "#shop"
+    },
+    {
+      "type": "text",
+      "id": "_about",
+      "label": "#about",
+      "default": "#about"
+    },
+    {
+      "type": "text",
+      "id": "_contact",
+      "label": "#contact",
+      "default": "#contact"
+    },
+    {
+      "type": "text",
+      "id": "_",
+      "label": "#",
+      "default": "#"
+    },
+    {
+      "type": "text",
+      "id": "_new_arrivals",
+      "label": "#new Arrivals",
+      "default": "#new-arrivals"
+    },
+    {
+      "type": "text",
+      "id": "_sale",
+      "label": "#sale",
+      "default": "#sale"
+    }
+  ],
+  "blocks": [],
+  "max_blocks": 0,
+  "presets": [
+    {
+      "name": "Default",
+      "settings": {
+        "bg_white_font_sans": "bg-white font-sans",
+        "announcement_bar_text_white_py_3_text_center": "announcement-bar text-white py-3 text-center",
+        "container_mx_auto_px_4": "container mx-auto px-4",
+        "font_semibold": "font-semibold",
+        "squarespace_nav_sticky_top_0_z_50_border_b": "squarespace-nav sticky top-0 z-50 border-b",
+        "container_mx_auto_px_4_py_4": "container mx-auto px-4 py-4",
+        "flex_items_center_justify_between": "flex items-center justify-between",
+        "flex_items_center_space_x_3": "flex items-center space-x-3",
+        "w_10_h_10_bg_gradient_to_r_from_brand_pink_to_brand_purple_rounded_full_flex_items_center_justify_center": "w-10 h-10 bg-gradient-to-r from-brand-pink to-brand-purple rounded-full flex items-center justify-center",
+        "text_white_font_bold": "text-white font-bold",
+        "text_2xl_font_bold_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent": "text-2xl font-bold bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent",
+        "hidden_md_flex_space_x_8": "hidden md:flex space-x-8",
+        "text_gray_700_hover_text_brand_pink_font_medium_transition_colors": "text-gray-700 hover:text-brand-pink font-medium transition-colors",
+        "flex_items_center_space_x_4": "flex items-center space-x-4",
+        "text_gray_700_hover_text_brand_pink_transition_colors": "text-gray-700 hover:text-brand-pink transition-colors",
+        "fas_fa_search_text_xl": "fas fa-search text-xl",
+        "relative_text_gray_700_hover_text_brand_pink_transition_colors": "relative text-gray-700 hover:text-brand-pink transition-colors",
+        "fas_fa_shopping_bag_text_xl": "fas fa-shopping-bag text-xl",
+        "absolute__top_2__right_2_bg_brand_pink_text_white_text_xs_rounded_full_w_5_h_5_flex_items_center_justify_center": "absolute -top-2 -right-2 bg-brand-pink text-white text-xs rounded-full w-5 h-5 flex items-center justify-center",
+        "gradient_bg_text_white_section_padding_text_center": "gradient-bg text-white section-padding text-center",
+        "text_5xl_md_text_6xl_font_bold_mb_6_leading_tight": "text-5xl md:text-6xl font-bold mb-6 leading-tight",
+        "text_xl_mb_8_max_w_2xl_mx_auto_opacity_90": "text-xl mb-8 max-w-2xl mx-auto opacity-90",
+        "space_x_4": "space-x-4",
+        "bg_white_text_brand_pink_px_8_py_4_rounded_full_font_semibold_hover_shadow_xl_transition_all_inline_block": "bg-white text-brand-pink px-8 py-4 rounded-full font-semibold hover:shadow-xl transition-all inline-block",
+        "border_2_border_white_text_white_px_8_py_4_rounded_full_font_semibold_hover_bg_white_hover_text_brand_pink_transition_all_inline_block": "border-2 border-white text-white px-8 py-4 rounded-full font-semibold hover:bg-white hover:text-brand-pink transition-all inline-block",
+        "section_padding_bg_gray_50": "section-padding bg-gray-50",
+        "text_4xl_font_bold_text_center_mb_16_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent": "text-4xl font-bold text-center mb-16 bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent",
+        "grid_md_grid_cols_3_gap_8": "grid md:grid-cols-3 gap-8",
+        "product_hover_bg_white_rounded_2xl_overflow_hidden_shadow_lg": "product-hover bg-white rounded-2xl overflow-hidden shadow-lg",
+        "h_64_bg_gradient_to_br_from_brand_pink_to_brand_purple_flex_items_center_justify_center": "h-64 bg-gradient-to-br from-brand-pink to-brand-purple flex items-center justify-center",
+        "fas_fa_tshirt_text_6xl_text_white": "fas fa-tshirt text-6xl text-white",
+        "p_6_text_center": "p-6 text-center",
+        "text_2xl_font_bold_mb_2": "text-2xl font-bold mb-2",
+        "text_gray_600_mb_4": "text-gray-600 mb-4",
+        "bg_brand_pink_text_white_px_6_py_2_rounded_full_hover_bg_opacity_90_transition_all": "bg-brand-pink text-white px-6 py-2 rounded-full hover:bg-opacity-90 transition-all",
+        "h_64_bg_gradient_to_br_from_brand_purple_to_brand_blue_flex_items_center_justify_center": "h-64 bg-gradient-to-br from-brand-purple to-brand-blue flex items-center justify-center",
+        "fas_fa_hoodie_text_6xl_text_white": "fas fa-hoodie text-6xl text-white",
+        "bg_brand_purple_text_white_px_6_py_2_rounded_full_hover_bg_opacity_90_transition_all": "bg-brand-purple text-white px-6 py-2 rounded-full hover:bg-opacity-90 transition-all",
+        "h_64_bg_gradient_to_br_from_brand_blue_to_brand_orange_flex_items_center_justify_center": "h-64 bg-gradient-to-br from-brand-blue to-brand-orange flex items-center justify-center",
+        "fas_fa_gem_text_6xl_text_white": "fas fa-gem text-6xl text-white",
+        "bg_brand_blue_text_white_px_6_py_2_rounded_full_hover_bg_opacity_90_transition_all": "bg-brand-blue text-white px-6 py-2 rounded-full hover:bg-opacity-90 transition-all",
+        "section_scroll_section_padding": "section-scroll section-padding",
+        "text_center_mb_16": "text-center mb-16",
+        "text_4xl_font_bold_mb_4_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent": "text-4xl font-bold mb-4 bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent",
+        "text_xl_text_gray_600": "text-xl text-gray-600",
+        "grid_md_grid_cols_2_lg_grid_cols_3_gap_8": "grid md:grid-cols-2 lg:grid-cols-3 gap-8",
+        "product_hover_bg_white_rounded_xl_shadow_lg_overflow_hidden": "product-hover bg-white rounded-xl shadow-lg overflow-hidden",
+        "h_80_bg_gradient_to_br_from_brand_orange_to_brand_pink_flex_items_center_justify_center": "h-80 bg-gradient-to-br from-brand-orange to-brand-pink flex items-center justify-center",
+        "text_white_text_2xl_font_bold": "text-white text-2xl font-bold",
+        "p_6": "p-6",
+        "bg_brand_orange_text_white_px_2_py_1_rounded_full_text_xs_font_bold": "bg-brand-orange text-white px-2 py-1 rounded-full text-xs font-bold",
+        "text_lg_font_bold_mb_2_mt_2": "text-lg font-bold mb-2 mt-2",
+        "text_gray_600_text_sm_mb_3": "text-gray-600 text-sm mb-3",
+        "text_2xl_font_bold_text_brand_pink": "text-2xl font-bold text-brand-pink",
+        "bg_gray_900_text_white_px_4_py_2_rounded_lg_hover_bg_gray_800_transition_all": "bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-all",
+        "h_80_bg_gradient_to_br_from_brand_blue_to_brand_purple_flex_items_center_justify_center": "h-80 bg-gradient-to-br from-brand-blue to-brand-purple flex items-center justify-center",
+        "h_80_bg_gradient_to_br_from_brand_pink_to_brand_orange_flex_items_center_justify_center": "h-80 bg-gradient-to-br from-brand-pink to-brand-orange flex items-center justify-center",
+        "section_scroll_section_padding_bg_gray_50": "section-scroll section-padding bg-gray-50",
+        "grid_md_grid_cols_2_lg_grid_cols_4_gap_8": "grid md:grid-cols-2 lg:grid-cols-4 gap-8",
+        "h_80_bg_gradient_to_br_from_brand_purple_to_brand_blue_flex_items_center_justify_center_relative": "h-80 bg-gradient-to-br from-brand-purple to-brand-blue flex items-center justify-center relative",
+        "absolute_top_4_right_4_bg_red_500_text_white_px_2_py_1_rounded_full_text_sm_font_bold": "absolute top-4 right-4 bg-red-500 text-white px-2 py-1 rounded-full text-sm font-bold",
+        "text_lg_font_bold_mb_2": "text-lg font-bold mb-2",
+        "text_lg_text_gray_500_line_through": "text-lg text-gray-500 line-through",
+        "text_2xl_font_bold_text_brand_pink_ml_2": "text-2xl font-bold text-brand-pink ml-2",
+        "h_80_bg_gradient_to_br_from_brand_pink_to_brand_orange_flex_items_center_justify_center_relative": "h-80 bg-gradient-to-br from-brand-pink to-brand-orange flex items-center justify-center relative",
+        "h_80_bg_gradient_to_br_from_brand_blue_to_brand_purple_flex_items_center_justify_center_relative": "h-80 bg-gradient-to-br from-brand-blue to-brand-purple flex items-center justify-center relative",
+        "h_80_bg_gradient_to_br_from_brand_orange_to_brand_pink_flex_items_center_justify_center_relative": "h-80 bg-gradient-to-br from-brand-orange to-brand-pink flex items-center justify-center relative",
+        "h_80_bg_gradient_to_br_from_brand_pink_to_brand_purple_flex_items_center_justify_center": "h-80 bg-gradient-to-br from-brand-pink to-brand-purple flex items-center justify-center",
+        "h_80_bg_gradient_to_br_from_brand_purple_to_brand_blue_flex_items_center_justify_center": "h-80 bg-gradient-to-br from-brand-purple to-brand-blue flex items-center justify-center",
+        "h_80_bg_gradient_to_br_from_brand_blue_to_brand_orange_flex_items_center_justify_center": "h-80 bg-gradient-to-br from-brand-blue to-brand-orange flex items-center justify-center",
+        "text_center_mt_12": "text-center mt-12",
+        "bg_gradient_to_r_from_brand_pink_to_brand_purple_text_white_px_8_py_4_rounded_full_font_semibold_hover_shadow_xl_transition_all": "bg-gradient-to-r from-brand-pink to-brand-purple text-white px-8 py-4 rounded-full font-semibold hover:shadow-xl transition-all",
+        "max_w_4xl_mx_auto_text_center": "max-w-4xl mx-auto text-center",
+        "text_4xl_font_bold_mb_8_bg_gradient_to_r_from_brand_pink_to_brand_purple_bg_clip_text_text_transparent": "text-4xl font-bold mb-8 bg-gradient-to-r from-brand-pink to-brand-purple bg-clip-text text-transparent",
+        "grid_md_grid_cols_2_gap_12_items_center": "grid md:grid-cols-2 gap-12 items-center",
+        "text_left": "text-left",
+        "text_lg_text_gray_700_mb_6_leading_relaxed": "text-lg text-gray-700 mb-6 leading-relaxed",
+        "text_lg_text_gray_700_leading_relaxed": "text-lg text-gray-700 leading-relaxed",
+        "mt_8_flex_space_x_6": "mt-8 flex space-x-6",
+        "text_center": "text-center",
+        "text_3xl_font_bold_text_brand_pink": "text-3xl font-bold text-brand-pink",
+        "text_gray_600": "text-gray-600",
+        "text_3xl_font_bold_text_brand_purple": "text-3xl font-bold text-brand-purple",
+        "text_3xl_font_bold_text_brand_blue": "text-3xl font-bold text-brand-blue",
+        "h_96_bg_gradient_to_br_from_brand_pink_via_brand_purple_to_brand_blue_rounded_2xl_flex_items_center_justify_center": "h-96 bg-gradient-to-br from-brand-pink via-brand-purple to-brand-blue rounded-2xl flex items-center justify-center",
+        "text_center_text_white": "text-center text-white",
+        "fas_fa_heart_text_6xl_mb_4": "fas fa-heart text-6xl mb-4",
+        "text_xl_font_semibold": "text-xl font-semibold",
+        "max_w_4xl_mx_auto": "max-w-4xl mx-auto",
+        "grid_md_grid_cols_2_gap_12": "grid md:grid-cols-2 gap-12",
+        "text_2xl_font_bold_mb_6": "text-2xl font-bold mb-6",
+        "space_y_6": "space-y-6",
+        "w_12_h_12_bg_brand_pink_rounded_full_flex_items_center_justify_center": "w-12 h-12 bg-brand-pink rounded-full flex items-center justify-center",
+        "fas_fa_envelope_text_white": "fas fa-envelope text-white",
+        "w_12_h_12_bg_brand_purple_rounded_full_flex_items_center_justify_center": "w-12 h-12 bg-brand-purple rounded-full flex items-center justify-center",
+        "fas_fa_phone_text_white": "fas fa-phone text-white",
+        "w_12_h_12_bg_brand_blue_rounded_full_flex_items_center_justify_center": "w-12 h-12 bg-brand-blue rounded-full flex items-center justify-center",
+        "fas_fa_clock_text_white": "fas fa-clock text-white",
+        "mt_8": "mt-8",
+        "text_lg_font_semibold_mb_4": "text-lg font-semibold mb-4",
+        "flex_space_x_4": "flex space-x-4",
+        "w_12_h_12_bg_gradient_to_r_from_brand_pink_to_brand_purple_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all": "w-12 h-12 bg-gradient-to-r from-brand-pink to-brand-purple rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all",
+        "fab_fa_instagram": "fab fa-instagram",
+        "w_12_h_12_bg_gradient_to_r_from_brand_purple_to_brand_blue_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all": "w-12 h-12 bg-gradient-to-r from-brand-purple to-brand-blue rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all",
+        "fab_fa_facebook": "fab fa-facebook",
+        "w_12_h_12_bg_gradient_to_r_from_brand_blue_to_brand_orange_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all": "w-12 h-12 bg-gradient-to-r from-brand-blue to-brand-orange rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all",
+        "fab_fa_twitter": "fab fa-twitter",
+        "w_12_h_12_bg_gradient_to_r_from_brand_orange_to_brand_pink_rounded_full_flex_items_center_justify_center_text_white_hover_shadow_lg_transition_all": "w-12 h-12 bg-gradient-to-r from-brand-orange to-brand-pink rounded-full flex items-center justify-center text-white hover:shadow-lg transition-all",
+        "fab_fa_tiktok": "fab fa-tiktok",
+        "bg_white_p_8_rounded_2xl_shadow_lg": "bg-white p-8 rounded-2xl shadow-lg",
+        "text_xl_font_bold_mb_6": "text-xl font-bold mb-6",
+        "space_y_4": "space-y-4",
+        "w_full_px_4_py_3_border_border_gray_300_rounded_lg_focus_outline_none_focus_ring_2_focus_ring_brand_pink_focus_border_transparent": "w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-pink focus:border-transparent",
+        "w_full_bg_gradient_to_r_from_brand_pink_to_brand_purple_text_white_py_3_rounded_lg_font_semibold_hover_shadow_lg_transition_all": "w-full bg-gradient-to-r from-brand-pink to-brand-purple text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all",
+        "bg_gray_900_text_white_py_12": "bg-gray-900 text-white py-12",
+        "grid_md_grid_cols_4_gap_8": "grid md:grid-cols-4 gap-8",
+        "flex_items_center_space_x_3_mb_4": "flex items-center space-x-3 mb-4",
+        "w_8_h_8_bg_gradient_to_r_from_brand_pink_to_brand_purple_rounded_full_flex_items_center_justify_center": "w-8 h-8 bg-gradient-to-r from-brand-pink to-brand-purple rounded-full flex items-center justify-center",
+        "text_white_font_bold_text_sm": "text-white font-bold text-sm",
+        "text_xl_font_bold": "text-xl font-bold",
+        "text_gray_400": "text-gray-400",
+        "font_semibold_mb_4": "font-semibold mb-4",
+        "space_y_2_text_gray_400": "space-y-2 text-gray-400",
+        "hover_text_white_transition_colors": "hover:text-white transition-colors",
+        "hover_text_white_transition_colors_cursor_pointer": "hover:text-white transition-colors cursor-pointer",
+        "text_gray_400_mb_4": "text-gray-400 mb-4",
+        "flex": "flex",
+        "flex_1_px_3_py_2_bg_gray_800_text_white_rounded_l_lg_focus_outline_none": "flex-1 px-3 py-2 bg-gray-800 text-white rounded-l-lg focus:outline-none",
+        "bg_brand_pink_px_4_py_2_rounded_r_lg_hover_bg_opacity_90_transition_all": "bg-brand-pink px-4 py-2 rounded-r-lg hover:bg-opacity-90 transition-all",
+        "fas_fa_arrow_right": "fas fa-arrow-right",
+        "border_t_border_gray_800_mt_8_pt_8_text_center_text_gray_400": "border-t border-gray-800 mt-8 pt-8 text-center text-gray-400",
+        "modal": "modal",
+        "modal_content": "modal-content",
+        "gradient_bg_text_white_p_6_rounded_t_2xl": "gradient-bg text-white p-6 rounded-t-2xl",
+        "flex_justify_between_items_center": "flex justify-between items-center",
+        "text_2xl_font_bold": "text-2xl font-bold",
+        "text_white_hover_text_gray_300": "text-white hover:text-gray-300",
+        "fas_fa_times_text_xl": "fas fa-times text-xl",
+        "text_xl_font_bold_mb_3_text_brand_pink": "text-xl font-bold mb-3 text-brand-pink",
+        "text_gray_700": "text-gray-700",
+        "text_xl_font_bold_mb_3_text_brand_purple": "text-xl font-bold mb-3 text-brand-purple",
+        "space_y_2_text_gray_700": "space-y-2 text-gray-700",
+        "text_xl_font_bold_mb_3_text_brand_blue": "text-xl font-bold mb-3 text-brand-blue",
+        "text_xl_font_bold_mb_3_text_brand_orange": "text-xl font-bold mb-3 text-brand-orange",
+        "list_decimal_list_inside_space_y_2_text_gray_700": "list-decimal list-inside space-y-2 text-gray-700",
+        "text_lg_font_bold_mb_2_text_brand_pink": "text-lg font-bold mb-2 text-brand-pink",
+        "text_lg_font_bold_mb_2_text_brand_purple": "text-lg font-bold mb-2 text-brand-purple",
+        "text_lg_font_bold_mb_2_text_brand_blue": "text-lg font-bold mb-2 text-brand-blue",
+        "text_lg_font_bold_mb_2_text_brand_orange": "text-lg font-bold mb-2 text-brand-orange",
+        "space_y_8": "space-y-8",
+        "text_xl_font_bold_mb_4_text_brand_pink": "text-xl font-bold mb-4 text-brand-pink",
+        "overflow_x_auto": "overflow-x-auto",
+        "w_full_border_collapse_border_border_gray_300": "w-full border-collapse border border-gray-300",
+        "bg_gray_100": "bg-gray-100",
+        "border_border_gray_300_px_4_py_2": "border border-gray-300 px-4 py-2",
+        "text_xl_font_bold_mb_4_text_brand_purple": "text-xl font-bold mb-4 text-brand-purple",
+        "bg_gray_50_p_4_rounded_lg": "bg-gray-50 p-4 rounded-lg",
+        "font_bold_mb_2_text_brand_blue": "font-bold mb-2 text-brand-blue",
+        "list_disc_list_inside_space_y_1_text_gray_700": "list-disc list-inside space-y-1 text-gray-700",
+        "home": "home",
+        "new_arrivals": "new-arrivals",
+        "sale": "sale",
+        "shop": "shop",
+        "about": "about",
+        "contact": "contact",
+        "shipping_modal": "shipping-modal",
+        "returns_modal": "returns-modal",
+        "faq_modal": "faq-modal",
+        "size_guide_modal": "size-guide-modal",
+        "https___cdn_tailwindcss_com": "https://cdn.tailwindcss.com",
+        "https___cdnjs_cloudflare_com_ajax_libs_font_awesome_6_0_0_css_all_min_css": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+        "_home": "#home",
+        "_shop": "#shop",
+        "_about": "#about",
+        "_contact": "#contact",
+        "_": "#",
+        "_new_arrivals": "#new-arrivals",
+        "_sale": "#sale"
+      }
+    }
+  ]
+}
